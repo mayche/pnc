@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header img{
+	width: 100%;
+	float: left;
+	position: relative;
+}
+
+input {
+	position: absolute;
+	top: 30px;
+	left: 66%;
+}
+button {
+	position: absolute;
+	top: 30px;
+	left: 85%;
+	background-color: orange;
+	color: #ffffff;
+	border-radius: 5px;
+	border:none;
+	width: 80px;
+	height: 25px;
+	margin-top: 2px;
+}
+.menu {
+	text-align: center;
+	display: block;
+	background-color: #dd0f0f;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+}
+
+.menu a:hover{
+	color: orange;
+}
+.menu  div {
+	color: #ffffff;
+}
+.homepage {
+	position: absolute;
+	top: 145px;
+	left: 33%;
+}
+.company {
+	position: absolute;
+	top: 145px;
+	left: 44%;
+}
+.product {
+	position: absolute;
+	top: 145px;
+	left: 55%;
+}
+.services {
+	position: absolute;
+	top: 145px;
+	left: 65%;
+}
+.contact {
+	position: absolute;
+	top: 145px;
+	left: 75%;
+}
+.clients {
+	position: absolute;
+	top: 145px;
+	left: 85%;
+}
+.image1 img {
+	width: 100%;
+	margin: none;
+	padding-top: 0;
+}
+/*INFORMATION*/
+.information h4{
+	color: #dd0f0f;
+	padding-bottom: 5px;
+	border-bottom: 2px dotted black;
+}
+.information p {
+	padding-top: 15px;
+}
+
+/*LATEST PRODUCT*/
+.latest-product h4{
+	color: #dd0f0f;
+	padding-top: 50px;
+	padding-bottom: 5px;
+	border-bottom: 2px dotted black;
+}
+.center{
+	padding: 65px 65px 0 65px;
+
+
+}
+/*FIRST-BLOCK*/
+.first-block{
+	
+}
+.product-box{
+	display: inline-block;
+	width: auto;
+	border-top: 3px orange solid;
+	margin: 10px 20px 10px 68px;
+	font-size: 11px;
+}
+.product-box h3{
+	background-color: orange;
+	width: 281px;
+}
+.copy-right{
+	vertical-align: none;
+}
+/*LAST-MENU*/
+.last-menu {
+	display: block;
+	background-color: #dd0f0f;
+	vertical-align: center;
+	color: #ffffff;
+}
+.last-menu a{
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+}
+.last-menu a:hover{
+	color: orange;
+}
+.links {
+	margin-left: 720px;
+	padding-top: 3px;
+	word-spacing: 13px;
+
+}
+.last-menu p{
+	position: absolute;
+	top:1694px;
+	left: 10px;
+}
+
+
+
